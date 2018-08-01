@@ -19,4 +19,14 @@ made small changes to test on github
 additional line
 
 
+<<<<<<< HEAD
 Added another line of text -ANDREW
+=======
+yo andrew
+
+hi ryan
+>>>>>>> 671edf05333ae3488b94da97007a31658916423d
+
+
+**************************
+FINAL CHANGE - ANDREW
