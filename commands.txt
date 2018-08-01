@@ -13,3 +13,6 @@ gschool
 pre_work
 rocky_sunset2.tif
 rocky_sunset3.tif
+
+
+made small changes to test on github
