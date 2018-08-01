@@ -1,0 +1,15 @@
+CLI commands:
+
+- 'ls' list stuff inside directory
+- 'mkdir' creates a folder
+- 'cat + filename' shows file it on terminal
+- 'mv + filename + path' will move file location
+- '&&' lets you add more commands after one
+1
+2
+JavaScript-for-Kids.pdf
+commands.txt
+gschool
+pre_work
+rocky_sunset2.tif
+rocky_sunset3.tif
